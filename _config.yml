@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            韭菜逆袭指南
+longtitle:        专注股票投资，个人学习成长分享，虽然还在爬坑，但满怀希望，秉持独立思考，保持开放质疑，早日找到稳定盈利的方法
+author:           尼古拉斯二世
+email:            qing606@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  专注股票投资，个人学习成长分享，虽然还在爬坑，但满怀希望，秉持独立思考，保持开放质疑，早日找到稳定盈利的方法.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jiucai.netqq.net'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
