@@ -3,6 +3,7 @@ layout: home
 title: 韭菜逆袭指南
 layout: home
 permalink: /
+toc:true
 ---
 ![](http://pic.iyzi.cloud/picgo/20250306111906.jpg)
 # 我们是谁？
