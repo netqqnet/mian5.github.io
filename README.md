@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 万一免五开户
+title: 首页
 permalink: /
 ---
 
