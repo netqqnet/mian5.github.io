@@ -1,13 +1,8 @@
 ---
 layout: home
 title: 韭菜逆袭指南
-permalink: /
----
----
-title: 韭菜逆袭指南
-author: 韭菜老王
-permalink: /
 layout: home
+permalink: /
 ---
 ![](http://pic.iyzi.cloud/picgo/20250306111906.jpg)
 # 我们是谁？
