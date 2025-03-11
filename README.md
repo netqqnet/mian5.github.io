@@ -2,7 +2,7 @@
 layout: home
 title: 首页
 permalink: /
-cover: /assets/gitbook/images/cover.jpg
+cover: /assets/gitbook/images/home-cover.jpg
 ---
 
 # 我们是谁？
