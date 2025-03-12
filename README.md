@@ -14,7 +14,7 @@ cover: /assets/gitbook/images/home-cover.jpg
 
 # 有哪些券商？
 
-（加微信：netqqnet2 获取详细）
+<font color="#ff0000">**加微信：netqqnet2 获取详细**</font>
 > 股票交易最低万0.75免5，北交所最低万1.75免5全佣，两融费率低至2.99%,港股通万0.3净佣金，ETF万0.5免5，支持同花顺，支持通达信，超强条件单，量化交易优选
 
 
