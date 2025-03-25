@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 首页
+title: 老倔驴开户
 permalink: /
 ---
 
