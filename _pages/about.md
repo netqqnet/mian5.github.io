@@ -15,6 +15,6 @@ layout: post
 截止2025年，服务的客户200+，我希望成为您可信赖的伙伴。
 
 ## 联系我们
-**优惠开户:**  304278785 (QQ) netqqnet2 (wechat)
+**优惠开户:**  304278785 (QQ) netqqnet (wechat)
 **券商合作:**  qing606#gmail.com
 
