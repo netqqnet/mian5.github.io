@@ -30,7 +30,7 @@ permalink: /
 2. 支持同花顺云条件单的有：江海、国金等
 
 ![wechat: netqqnet2 ](./netqqnet2.jpg)
-<font color="#ff0000"> wechat：netqqnet8 ，如果微信加不上，备用QQ 304278785</font>
+<font color="#ff0000"> wechat：netqqnet ，如果微信加不上，备用QQ 304278785</font>
 
 
 # 常见问题FAQ
