@@ -54,7 +54,7 @@ permalink: /
 
 打开同花顺软件—点击“交易”—登录账户—点击“查询”—点击“对账单”即可，一般只能一段时间内的对账单。
 
-注意：刚完成交易可能有误差，以次日为准
+注意：刚完成交易可能有误差，晚上10点后或者次日为准
 
 
 |![](https://new-notion-1315843248.cos.ap-guangzhou.myqcloud.com/wechat/67defd8d-5da9-4a5a-9a62-cc7644ceed06.jpg)|![](https://new-notion-1315843248.cos.ap-guangzhou.myqcloud.com/wechat/601ae3c8-0366-46d0-904f-219d671b1a9c.jpg)|
