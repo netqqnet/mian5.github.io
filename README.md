@@ -58,8 +58,6 @@ permalink: /
 注意：刚完成交易可能有误差，晚上10点后或者次日为准
 
 
-|![](https://new-notion-1315843248.cos.ap-guangzhou.myqcloud.com/wechat/67defd8d-5da9-4a5a-9a62-cc7644ceed06.jpg)|![](https://new-notion-1315843248.cos.ap-guangzhou.myqcloud.com/wechat/601ae3c8-0366-46d0-904f-219d671b1a9c.jpg)|
-
 
 ## 免五能省多少？
 以下是不同交易金额下“万一免五”与传统佣金（万2.5不免五）的手续费对比及节省金额示例（假设每日交易2次，每月20天：
