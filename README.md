@@ -35,7 +35,7 @@ permalink: /
 2. 支持同花顺云条件单的有：江海、国金等
 
 [⚠️最新券商名单](https://shimo.im/docs/KlkKvgELD4clG8qd/read) 
-<font color="#ff0000"> wechat：netqqnet ，如果微信加不上，备用QQ 304278785</font>
+<font color="#ff0000"> wechat：netqqnet ，(上班摸鱼用)钉钉： m5khcom ，QQ: 304278785</font>
 
 
 # 常见问题FAQ
