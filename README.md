@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 倔驴笔记
+title: 靠谱开户
 author: 老倔驴
 permalink: /
 ---
