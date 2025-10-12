@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 靠谱开户
+title: 老倔驴
 author: 老倔驴
 permalink: /
 ---
@@ -8,7 +8,6 @@ permalink: /
 
 !['今天涨了吗？'](assets/gitbook/images/20250306111906.jpg)
 
-这儿没有“暴涨密码”，只有靠谱的投资知识和更低的费率。
 
 
 # 有哪些券商？
@@ -34,7 +33,8 @@ permalink: /
 **补充：**
 1. 永久达标条件是券商为了避免薅羊毛，设置成为有效用户的标准。一般 3 个条件：首次入金额度，从入金计算平均资产，股票型交易次数，建议比要求额度多出 10%以上，以确保达成有效用户；
 2. 支持同花顺云条件单的有：江海、国金等
-[⚠️最新券商名单](broker_rates_ultra_simple.html) 
+
+### [⚠️最新券商名单](https://shimo.im/docs/KlkKvgELD4clG8qd/read) 
 <font color="#ff0000"> wechat：netqqnet ，(上班摸鱼用)钉钉： m5khcom ，QQ: 304278785</font>
 
 
