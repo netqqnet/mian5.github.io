@@ -760,8 +760,11 @@
             .data-table td {
                 border-bottom: 1px solid #ddd;
                 display: block;
-                font-size: .8em;
+                font-size: 1.1em;
                 text-align: left;
+            }
+            .data-table td span{
+                display: inline;
             }
 
             .data-table td::before {
@@ -771,7 +774,7 @@
     */
                 content: attr(data-label);
                 float: left;
-                margin-left: 20px;
+                padding-right: 20px;
                 font-weight: bold;
                 text-transform: uppercase;
             }
