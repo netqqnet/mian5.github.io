@@ -826,7 +826,6 @@
 
         <!-- 右侧内容区域 -->
         <div class="main-content">
-            <h1>券商费率对比表</h1>
 
             <!-- 表格容器 -->
             <div class="table-container">
@@ -859,7 +858,6 @@
             <div class="disclaimer">
                 <h3>免责声明</h3>
                 <ul>
-                    <li>各项优惠政策可能会根据券商规定随时调整，请在开户前与客户经理确认最新费率。</li>
                     <li>投资有风险，入市需谨慎。</li>
                 </ul>
             </div>
@@ -1087,7 +1085,7 @@
                             
                             // 合并券商展示信息
                             let brokerInfo = serialNumber;
-                            if (broker["券商代号"]) brokerInfo += broker["券商代号"];
+                            if (broker["券商代号"]) brokerInfo += "&nbsp;" + broker[" 券商代号"];
                             if (showBrokerName && broker["券商"]) brokerInfo += broker["券商"];
 
                             // 创建包含券商信息的单元格
